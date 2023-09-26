@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DaXari43
+- 👀 I’m interested in Astornomy and this type of things
+- 🌱 I’m currently learning C++, php, java and python
